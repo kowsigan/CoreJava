@@ -31,6 +31,8 @@ public class DefaultValues {
 		
 		System.out.println( (int)dv.c );
 		
+		System.out.println(dv.s);
+		
 		
 		
 
